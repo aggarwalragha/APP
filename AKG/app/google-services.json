@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469784472820",
+    "project_id": "akg-socities",
+    "storage_bucket": "akg-socities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469784472820:android:9896878b8ac430a3bd42a1",
+        "android_client_info": {
+          "package_name": "com.example.akg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469784472820-7agtp0b0gj5oci676eqtrihbng834d6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3WUeSif5IYT5FxjOD3qI0bJPnzJ0wD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469784472820-7agtp0b0gj5oci676eqtrihbng834d6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AKG</string>
+
+<string name="hyperlink"><a href="https://www.geeksforgeeks.org/">geeksforgeeks.org</a></string>
+</resources>
